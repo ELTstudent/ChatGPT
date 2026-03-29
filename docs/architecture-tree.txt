@@ -1,0 +1,17 @@
+app/
+  api/
+    reading/
+      route.ts
+  reading/
+    page.tsx
+lib/
+  tarot/
+    deck-seed.ts
+    types.ts
+services/
+  ai/
+    prompt-builder.ts
+    provider.ts
+docs/
+  tarot_mvp.sql
+  architecture-tree.txt
